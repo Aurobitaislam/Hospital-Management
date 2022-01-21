@@ -1,2 +1,2 @@
-# Hospital-Management
+# Hospital-Management System
 The project Hospital Management system includes registration of patients, storing their details into the system.The Hospital Management System can be entered using a username and password. It is accessible either by an administrator or receptionist. Only they can add data into the database. The data can be retrieved easily. The interface is very user-friendly. The data are well protected for personal use and makes the data processing very fast.It is fast, efficient and reliable.
